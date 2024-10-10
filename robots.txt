@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onighble.github.io/sitemap.html.gz
+Sitemap: https://onighble.github.io/app/sitemap.html.gz
+Sitemap: https://onighble.github.io/assets/sitemap.html.gz
+Sitemap: https://onighble.github.io/css/sitemap.html.gz
+Sitemap: https://onighble.github.io/includes/sitemap.html.gz
+Sitemap: https://onighble.github.io/item/sitemap.html.gz
+Sitemap: https://onighble.github.io/src/sitemap.html.gz
